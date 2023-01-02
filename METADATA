@@ -1,19 +1,3 @@
-name: "lock_api"
-description: "Wrappers to create fully-featured Mutex and RwLock types. Compatible with no_std."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/lock_api"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/lock_api/lock_api-0.4.2.crate"
-  }
-  version: "0.4.2"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 11
-    day: 17
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2800e608e761e67010ef451875de74316960ff1667bc91c12a42c10aa53f5580
+size 422
